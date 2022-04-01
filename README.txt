@@ -1,10 +1,12 @@
 # ExaminationSystem
 
-Type, userName, Password
+##use one of the following Usernames & passwords to login to the app ..
 
-Student, r, 1234 --> contain 2 subjects (HTML, C#)
-Student, a2, 1234 --> contain 2 subjects (C#, AJAX)
-Student, e2, 1234 --> contain 2 subjects (HTML, AJAX)
+##Type, userName, Password
+
+Student, r, 1234 --> contains 2 subjects (HTML, C#)
+Student, a2, 1234 --> contains 2 subjects (C#, AJAX)
+Student, e2, 1234 --> contains 2 subjects (HTML, AJAX)
 
 Instructor, r, 1234 --> can generate exam for 2 subjects (HTML, AJAX)
 Instructor, g, 1234 --> can generate exams for 2 subjects (HTML, C#)
